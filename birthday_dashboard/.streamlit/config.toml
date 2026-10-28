@@ -1,0 +1,9 @@
+# Keep the pastel light theme even if the browser prefers dark mode.
+[theme]
+base = "light"
+primaryColor = "#e8679a"
+backgroundColor = "#fff8f3"
+textColor = "#5b3a55"
+
+[client]
+toolbarMode = "minimal"

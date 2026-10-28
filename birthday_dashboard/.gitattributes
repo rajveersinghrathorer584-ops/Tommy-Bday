@@ -1,0 +1,7 @@
+# Normalize line endings for text files
+* text=auto
+
+# Audio is binary: never diff or convert line endings
+*.wav binary
+*.mp3 binary
+*.ogg binary
